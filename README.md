@@ -7,9 +7,9 @@
 
 ### Setup the project
 1. Locate the current directory in terminal
-3. Execute `npm install -g mountebank`
-4. Execute `mb --configfile imposters.ejs`
-5. Run the project and make sure the app can start correctly(don't worry about if the features are not working properly)
+2. Execute `npm install -g mountebank`
+3. Execute `mb --configfile imposters.ejs`
+4. Run the project and make sure the app can start correctly(don't worry about if the features are not working properly)
 
 ### App Introduction
 
