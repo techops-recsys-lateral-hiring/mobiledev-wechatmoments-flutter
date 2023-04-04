@@ -2,6 +2,8 @@
 1. Node.js version 12.0+ [Download](https://nodejs.org/en/download/)
 2. Flutter - 3.7.9-stable (may works with 3.x.x)
 3. npm - via [Node.js installer](https://nodejs.org/en/download/) or [nvm](https://github.com/nvm-sh/nvm#install--update-script)
+4. Android Studio
+5. Xcode and CocoaPods (Not required if you dont have Mac)
 
 ### Setup the project
 1. Locate the current directory in terminal
