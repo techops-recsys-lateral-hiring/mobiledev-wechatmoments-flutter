@@ -25,9 +25,6 @@ The below screenshots are from Wechat App, they are for reference/inspiration th
 - The page consists of profile image, avatar and tweets list
 - For each tweet, there will be a sender, optional content, optional images and comments
 - A tweet contains from 0 to 9 images
-- Pulling down table view to refresh, only first 5 items are shown after refreshing
-- All tweets are fetched and stored in memory at the first time and only show first 5 of them at the beginning and after refresh.
-- Show 5 more while user pulling up the view at the bottom of the table view.
 - Supports layout on all kinds of iOS & Android device screen and orientation.
 - This is a static page.
 
