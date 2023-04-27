@@ -37,3 +37,11 @@ The below screenshots are from Wechat App, they are for reference/inspiration th
 - Utilise multi-thread operations
 - Do not copy other developer's source code(`*.dart`) into your project
 - Keep your code clean as much as possible, Production and Technical requirements are weighing equally in the final result.
+
+##### Expectations
+
+- Understanding of Bloc/Cubit state management or Riverpod
+- Basic knowledge of widget and Unit testing
+- Structure of widgets and code 
+- Architecture setup with Flutter, MVVM or Clean Architecture
+- Dart fundamentals
